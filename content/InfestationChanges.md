@@ -1,5 +1,5 @@
 # Infestations and Mountainbases
-<sub>(Created by Soraphis: 28.9.2016)</sub>
+<sub>(Created by Soraphis: 28.9.2016 - Last Update (03.11.2017))</sub>
 
 ## Insects/Vermin
 
@@ -48,4 +48,6 @@ due to the changes to infestations a player could now prevent infestations from 
 
 so there is a new event where 1 or more mega worms dig out the ground somewhere (possibly in your mountain base, but not neccessarily), they leave a hole where a few spelopedes and mega scarabs follow.
 
-if not closed for too long even mega spiders will follow and the scarabs start to construct in the next-to-find place (needs to be relatively dark, and need to have a ceiling or inside a mountain)
+those insects try to build a new base (searching for a dark place).
+
+if the hole is not closed for too long even mega spiders will follow
