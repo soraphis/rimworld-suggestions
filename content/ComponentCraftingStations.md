@@ -103,7 +103,7 @@ ___
 
 <div style="width: 100%; padding: 1em 0;">
 <div style="width: 100%; padding: 1em 0; display: flex; justify-content: center; background: #3d3d3d;">
-<video style="margin: 0 1em;" src="content/assembly_line/robotarm.webm" loop="loop" autoplay="true"></video>
+<video style="margin: 0 1em;height: 132px;" src="content/assembly_line/robotarm.webm" loop="loop" autoplay="true"></video>
 </div>
 </div>
 
