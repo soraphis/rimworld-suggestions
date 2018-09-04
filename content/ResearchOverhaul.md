@@ -23,6 +23,7 @@ When those two pawns talk, they share (based on their social skill) between 1 an
 lets say pawn 1 has a social skill about ~8 and will share 2 slots, when talking to pawn 2 (social skill of 4).
 so he sends the position of two of his dots to pawn 2, lets say the first and the last.
 
+
 pawn 2 (with a social skill of 4) sends his second dot to pawn 1. so after talking about their research their knowledge bars look like that:
 
 pawn 1: `[■| | | | | |■|■| | | | | |■|■| | ] `
@@ -34,7 +35,7 @@ pawn 2: `[■| | | | | |■|■|■| | | | | |■| | ] `
 - there is a cooldown for a pawn to talk about research to another pawn
 - if a pawn has fully researched a topic, he will only send blocks the other pawn does not know already
 - the number of parts depends on the research topic
-- the higher the researchlevel of a pawn the faster he will learn new parts (lvl < 4: 1 part per 4 hours, lvl < 8: 1 part per 3 hours, lvl < 12: 1 part per 2 hours, lvl < 16: 1 part per hour, lvl >= 16: 2 parts per 3 hours)
+- the higher the researchlevel of a pawn the faster he will learn new parts (lvl < 4: 1 part per 4 hours, lvl < 8: 1 part per 3 hours, lvl < 12: 1 part per 2 hours, lvl < 16: 1 part per hour, lvl >= 16: 1 parts per 0.5 hours)
 - pawns will count "talking about another pawn with knowledge about it" as "doing research"-task
     - have 3 pawns who want to research but just 1 research table? no problem, two of them will share their knowledge while one is researching new stuff.
 
